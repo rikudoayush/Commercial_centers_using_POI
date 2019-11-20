@@ -112,7 +112,7 @@ But since total unique amenities are 39 we also cluster them accordingly, giving
 
 From the scatterplot, we can observe that most of the points (amenities) are at the center surrounded by far-away points. So, the center area must be the busy main area of the city. Within this large cluster, there may be some small clusters as well.
 
-### 1) DBSCAN
+### 2) DBSCAN
 
  The main concept of DBSCAN algorithm is to locate regions of high density that are separated from one another by regions of low
  density.
